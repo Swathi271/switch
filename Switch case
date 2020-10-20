@@ -1,0 +1,18 @@
+#include<stdio.h>
+void main()
+{
+int a; 
+Printf("Enter Your choice");
+switch(a)
+{
+case 0:
+printf("Entered 0");
+break; 
+case 1:
+printf("Entered 1");
+break; 
+default:
+printf("So... ");
+break; 
+}
+}
